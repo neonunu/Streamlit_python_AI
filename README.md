@@ -92,7 +92,7 @@
 | 자료 | 파일 |
 | --- | --- |
 | 프로젝트 계획서 (역할 분담 및 주간 일정) | [역할 분담 및 주간 일정.md](https://github.com/neonunu/Streamlit_python_AI/blob/main/%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%87%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20AI%20%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC/%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AF%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A1%E1%86%B7%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%AE%E1%84%80%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.md) |
-| 발표자료 | [final_presentation.pptx](docs/final_presentation.pptx) |
+| 발표자료 | [final_presentation.pptx](final_presentation.pptx) |
 | 시연 동영상 | https://youtu.be/kqnbtq0dSrQ |
 | 시연 앱 | https://attzno7s29ztwv8xtappe32.streamlit.app/ |
 
